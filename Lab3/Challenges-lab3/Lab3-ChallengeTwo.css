@@ -1,0 +1,11 @@
+body{
+  background-color:red;
+}
+#listText{
+  color:green;
+  font-style:italic;
+}
+.listItems{
+  display: inline;
+  font-size: 30px;
+}
