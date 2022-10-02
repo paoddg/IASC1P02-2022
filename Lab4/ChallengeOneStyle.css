@@ -1,0 +1,31 @@
+
+body{
+	background-color: blue;
+}
+
+#firstHeader{
+  color:red;
+ }
+
+.box{
+	margin-top: 20px;
+	margin-right: 10%;
+	margin-bottom: 20px;
+	margin-left: 10%;
+
+	border: 3px solid black;
+}
+
+.pic{
+	border: 1px dashed green;
+  border-style: dashed;
+	padding: 5px;
+	margin: 10px;
+}
+
+#Badger{
+	border: 1px dashed pink;
+	padding: 20px;
+	margin: 0px;
+  width: 150px;
+}
