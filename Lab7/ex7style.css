@@ -22,7 +22,7 @@
 #leftbox{
   width: 350px;
   height: 900px;
-  background-color: black;
+  background-color: gray;
   float: left;
   margin-left: 50px;
 }
@@ -57,12 +57,6 @@
 .menuheader{
     text-align: center;
     font-size: 30px;
-    }
-
-.menuheader2{
-  text-align: center;
-  font-size: 30px;
-  color: white;
 }
 
 #reviews{
