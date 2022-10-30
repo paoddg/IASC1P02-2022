@@ -34,24 +34,11 @@
     background-color: yellow;
 }
 
-#wrapper2{
-    width: 1500px;
-    height: 1000px;
-    margin: 0 auto;
-}
-
-#bottom{
- width: 1400px;
- height: 300px;
- margin: 0 auto;
- background-color: lightblue;
-}
-
 div.absolute {
   position: absolute;
   bottom: 10px;
   width: 50%;
-  border: 3px solid #8AC007;
+  border: 3px solid lightblue;
 }
 #firstheader{
    text-align: center;
