@@ -35,10 +35,12 @@
 }
 
 #rightbox{
-   width: 350px;
-   height: 900px;
-   float: left;
-   background-color: blue;
+    text-align:center;
+    position: relative;
+    left: 100px;
+    height: 200px;
+    width: 500px;
+    background-color: green;
 }
 
 #header1{
