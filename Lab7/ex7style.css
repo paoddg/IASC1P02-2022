@@ -22,9 +22,9 @@
 #leftbox{
   width: 350px;
   height: 900px;
-  background-color: teal;
+  background-color: green;
   float: left;
-  margin-left: 50px;
+  margin-left: 0px;
 }
 
 #centerbox{
