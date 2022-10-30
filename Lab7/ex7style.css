@@ -41,11 +41,13 @@
     background-color: lightblue;
 }
 
-div.absolute {
-  position: absolute;
-  bottom: 10px;
-  width: 50%;
-  border: 3px solid lightblue;
+.main_div {
+    text-align:center;
+    position: relative;
+    left: 100px;
+    height: 200px;
+    width: 500px;
+    background-color: lightblue;
 }
 #firstheader{
    text-align: center;
