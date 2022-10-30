@@ -34,13 +34,6 @@
     background-color: yellow;
 }
 
-#bottom{
-    width: 700px;
-    height: 900px;
-    float: left;
-    background-color: lightblue;
-}
-
 .main_div {
     text-align:center;
     position: relative;
