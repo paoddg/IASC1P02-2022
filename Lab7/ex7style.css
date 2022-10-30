@@ -31,14 +31,14 @@
     width: 700px;
     height: 900px;
     float: left;
-    background-color: yellow;
+    background-color: orange;
 }
 
 #rightbox{
    width: 350px;
    height: 900px;
    float: left;
-   background-color: blue;
+   background-color: lightblue;
 }
 
 #header1{
@@ -59,7 +59,7 @@
     font-size: 30px;
     }
 
-#reservations{
+#reviews{
     margin: 0 auto;
     text-align: center;
 }
