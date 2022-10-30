@@ -34,18 +34,10 @@
     background-color: yellow;
 }
 
-#bottom{
-    width: 700px;
-    height: 900px;
-    float: left;
-    background-color: lightblue;
-}
-
 .main_div {
     text-align:center;
     position: relative;
-    left: 100px;
-    height: 200px;
+    height: 50px;
     width: 500px;
     background-color: lightblue;
 }
