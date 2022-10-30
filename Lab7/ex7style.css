@@ -8,7 +8,7 @@
  width: 1400px;
  height: 300px;
  margin: 0 auto;
- background-color: purple;
+ background-color: lightyellow;
 }
 
 #about{
@@ -22,7 +22,7 @@
 #leftbox{
   width: 350px;
   height: 900px;
-  background-color: lightyellow;
+  background-color: black;
   float: left;
   margin-left: 50px;
 }
@@ -31,26 +31,26 @@
     width: 700px;
     height: 900px;
     float: left;
-    background-color: orange;
+    background-color: red;
 }
 
 #rightbox{
    width: 350px;
    height: 900px;
    float: left;
-   background-color: lightblue;
+   background-color: yellow;
 }
 
-#header1{
+#firstheader{
    text-align: center;
    padding-top: 50px;
 }
 
-#header2{
+#secondhheader{
     text-align: center;
  }
 
-#header3{
+#thirdheader{
     text-align: center;
 }
 
