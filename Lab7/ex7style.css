@@ -34,6 +34,12 @@
     background-color: yellow;
 }
 
+#wrapper2{
+    width: 1500px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
 #bottom{
    float: left;
    width: 1400px;
