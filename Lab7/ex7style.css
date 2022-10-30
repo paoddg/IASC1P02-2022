@@ -34,6 +34,13 @@
     background-color: yellow;
 }
 
+#bottom{
+    width: 700px;
+    height: 900px;
+    float: left;
+    background-color: lightblue;
+}
+
 div.absolute {
   position: absolute;
   bottom: 10px;
