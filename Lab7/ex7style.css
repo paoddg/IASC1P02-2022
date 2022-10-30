@@ -1,0 +1,71 @@
+#wrapper{
+    width: 1500px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+#header{
+ width: 1400px;
+ height: 300px;
+ margin: 0 auto;
+ background-color: red;
+}
+
+#about{
+  top:50px;
+  float:right;
+  padding-right:50px;
+  font-size:40px;4
+  clear:both;
+ }
+
+#leftbox{
+  width: 350px;
+  height: 900px;
+  background-color: teal;
+  float: left;
+  margin-left: 50px;
+}
+
+#centerbox{
+    width: 700px;
+    height: 900px;
+    float: left;
+    background-color: yellow;
+}
+
+#bottom{
+   width: 350px;
+   height: 900px;
+   float: left;
+   background-color: blue;
+}
+
+#firstheader{
+   text-align: center;
+   padding-top: 50px;
+}
+
+#secondheader{
+    text-align: center;
+ }
+
+#thirdheader{
+    text-align: center;
+}
+
+.menuheader{
+    text-align: center;
+    font-size: 30px;
+    }
+
+
+#reservations{
+    margin: 0 auto;
+    text-align: center;
+}
+
+#social{
+    margin: 0 auto;
+    text-align:center;
+    }
