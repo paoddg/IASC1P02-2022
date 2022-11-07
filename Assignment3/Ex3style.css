@@ -2,11 +2,12 @@ body{
 	color:black;
 	font-family: "Arial";
 	background-color:white;
+    margin: 12 auto;
 }
 
 #wrapper{
 	width:1300px;
-	margin:0 auto;
+	margin:12 auto;
 	background-color:white;
 }
 
@@ -41,71 +42,71 @@ body{
 
 	#text1{
 		float: left;
-		width: 250px;
+		width: 300px;
 		height: 50px;
 		color:BLACK;
+	  font-size: 20px;
 		background-color: YELLOW;
 		position: absolute;
 		top: 250px;
-		left: 100px;
 		text-align: center;
 }
 
 #text2{
 	float: left;
 	color:black;
-	width: 250px;
+	width: 300px;
 	height: 50px;
+	font-size: 20px;
 	background-color: YELLOW;
 	position: absolute;
 	top: 300px;
-	left: 100px;
 				text-align: center;
 }
 
 #text3{
 	float: left;
 	color:BLACK;
-	width: 250px;
+	width: 300px;
 	height: 50px;
+	font-size: 20px;
 	background-color: YELLOW;
 	position: absolute;
 	top: 350px;
-	left: 100px;
 				text-align: center;
 }
 #text4{
 	float: left;
 	color:black;
-	width: 250px;
+	width: 300px;
 	height: 50px;
+	font-size: 20px;
 	background-color: YELLOW;
 	position: absolute;
 	top: 400px;
-	left: 100px;
 				text-align: center;
 }
 #text5{
 	float: left;
 	color:black;
-	width: 250px;
+	width: 300px;
 	height: 50px;
+	font-size: 20px;
 	background-color: YELLOW;
 	position: absolute;
 	top: 450px;
-	left: 100px;
 				text-align: center;
 }
 
 #text6{
 	float: left;
 	color:black;
-	width: 250px;
+	width: 300px;
 	height: 50px;
+	font-size: 20px;
 	background-color: YELLOW;
 	position: absolute;
 	top: 500px;
-	left: 100px;
 				text-align: center;
 }
 
@@ -123,7 +124,6 @@ body{
 	position: absolute;
 	top: 200px;
 	left: 650px;
-	width:500px;
 	height:450px;
 }
 
