@@ -1,0 +1,168 @@
+body{
+	color:black;
+	font-family: "Arial";
+	background-color:white;
+    margin: 12 auto;
+}
+
+#wrapper{
+	width:1300px;
+	margin:12 auto;
+	background-color:white;
+}
+
+#header{
+	height:100px;
+	font-size: 30px;
+	background-color: BLACK;
+	color:YELLOW;
+	padding-top:2px;
+	padding-bottom: 25px;
+	text-align:center;
+}
+
+#logo{
+	position: absolute;
+	height: 100px;
+	width: 100px;
+	left: 100px;
+	top: 20px;
+}
+
+#menu{
+	float:left;
+	width:300px;
+	color:BLACK;
+	height: 550px;
+	background-color:YELLOW;
+	padding:5px;
+	text-align: center;
+	}
+
+
+	#text1{
+		float: left;
+		width: 300px;
+		height: 50px;
+		color:BLACK;
+	  font-size: 20px;
+		background-color: YELLOW;
+		position: absolute;
+		top: 250px;
+		text-align: center;
+}
+
+#text2{
+	float: left;
+	color:black;
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+	background-color: YELLOW;
+	position: absolute;
+	top: 300px;
+				text-align: center;
+}
+
+#text3{
+	float: left;
+	color:BLACK;
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+	background-color: YELLOW;
+	position: absolute;
+	top: 350px;
+				text-align: center;
+}
+#text4{
+	float: left;
+	color:black;
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+	background-color: YELLOW;
+	position: absolute;
+	top: 400px;
+				text-align: center;
+}
+#text5{
+	float: left;
+	color:black;
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+	background-color: YELLOW;
+	position: absolute;
+	top: 450px;
+				text-align: center;
+}
+
+#text6{
+	float: left;
+	color:black;
+	width: 300px;
+	height: 50px;
+	font-size: 20px;
+	background-color: YELLOW;
+	position: absolute;
+	top: 500px;
+				text-align: center;
+}
+
+#Newsletter{
+	float:right;
+	color:BLACK;
+	width:980px;
+	height:550px;
+	background: LIGHTYELLOW;
+	padding:5px;
+	text-align: center;
+}
+
+#event{
+	position: absolute;
+	top: 200px;
+	left: 650px;
+	height:450px;
+}
+
+#Icons{
+	text-align:center;
+	color:white;
+	background-color: black;
+	height:50px;
+	padding-top:25px;
+	clear:both;
+	margin: 15px
+	border: 3px solid #ec8f42;
+}
+
+
+#icon1{
+	position: absolute;
+	height: 25px;
+	width: 25px;
+	background-color: YELLOW;
+	top: 725px;
+	left: 100px;
+	border: 3px solid #black;
+}
+
+#icon2{
+	position: absolute;
+	height: 25px;
+	width: 25px;
+	background-color: YELLOW;
+	top: 725px;
+	left: 150px;
+}
+
+#icon3{
+	position: absolute;
+	height: 25px;
+	width: 25px;
+	background-color: YELLOW;
+	top: 725px;
+	left: 200px;
+}
