@@ -1,5 +1,5 @@
 //Create the button in HTML that calls stopTime().
-//When the page laods, get the current full date information into a varible.
+//When the page loads, get the current full date information into a varible.
 var initialTime = new Date();
 //stopTime() -> get the current full date information into a "different" varible currentTime.
 function stopTime(){
@@ -8,4 +8,4 @@ function stopTime(){
 var timeDifference = (currentTime - initialTime) / 600;
 alert("You have been on the page for: " + timeDifference + " seconds");
 }
-//Output with a popup.
+//Output with a pop-up.
