@@ -1,22 +1,23 @@
-var elementOne = document.getElementById("firstNumber");
-var elementTwo = document.getElementById("secondNumber");
-
-function sum() {
-  var calculation = Number(elementOne.value) + Number(elementTwo.value);
-  document.getElementById("Answer").innerHTML = calculation;
+function buttonAdd(){
+textInput1=parseInt(myForm.textInput1.value);
+textInput2=parseInt(myForm.textInput2.value);
+document.getElementById("output").innerHTML = textInput1 + textInput2;
 }
 
-function difference() {
-  var calculation = Number(elementOne.value) - Number(elementTwo.value);
-  document.getElementById("Answer").innerHTML = calculation;
+function buttonSub(){
+textInput1=parseInt(myForm.textInput1.value);
+textInput2=parseInt(myForm.textInput2.value);
+document.getElementById("output").innerHTML = textInput1 - textInput2;
 }
 
-function product() {
-  var calculation = Number(elementOne.value) * Number(elementTwo.value);
-  document.getElementById("Answer").innerHTML = calculation;
+function buttonMult(){
+textInput1=parseInt(myForm.textInput1.value);
+textInput2=parseInt(myForm.textInput2.value);
+document.getElementById("output").innerHTML = textInput1 * textInput2;
 }
 
-function quotient() {
-  var calculation = Number(elementOne.value) / Number(elementTwo.value);
-  document.getElementById("Answer").innerHTML = calculation;
+function buttonDiv(){
+textInput1=parseInt(myForm.textInput1.value);
+textInput2=parseInt(myForm.textInput2.value);
+document.getElementById("output").innerHTML = textInput1 / textInput2;
 }
