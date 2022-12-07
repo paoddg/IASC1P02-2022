@@ -78,12 +78,9 @@ a:hover {
   color: grey;
 }
 #Footer {
-  position: absolute;
-  bottom: 5px;
-  margin-left: 5%;
-  margin-right: 5%;
-  width: 90%;
-  background-color: #05386b;
+  text-align:center;
+  	height:50px;
+  	clear:both;
 }
 
 #Clock {
