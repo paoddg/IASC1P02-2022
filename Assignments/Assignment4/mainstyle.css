@@ -30,7 +30,7 @@ body{
 #leftbody{
 	float:left;
 	width:190px;
-	height: 750px;
+	height: 800px;
 	background-color:#D2D6C7;
 	padding:5px;
 }
@@ -68,13 +68,13 @@ a:hover {
 #rightbody{
 	float:right;
 	width:1130px;
-	height:750px;
+	height:800px;
 	background-color:#F7E6D3;
 	padding:5px;
 }
 
 #sources{
-	float: left;
+	float: right;
   font-style: italic;
   color: grey;
 }
