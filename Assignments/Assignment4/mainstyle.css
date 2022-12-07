@@ -59,7 +59,7 @@ h2 {
 }
 
 #titles {
-  width: 390px;
+  width: 690px;
   margin: 0 auto;
 }
 
@@ -90,12 +90,10 @@ h2 {
   text-decoration: underline;
   margin: 0;
   padding-left: 5px;
-  background-color: #379683;
 }
 
 .subsection p {
   margin: 0;
-  background-color: #8ee4af;
 }
 
 #Footer {
