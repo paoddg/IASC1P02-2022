@@ -64,8 +64,8 @@ h2 {
 }
 
 #titles h3 {
-  display: inline;
-  margin: 50px 5px;
+  display: inline-block;
+  margin: none;
   cursor: pointer;
 }
 
