@@ -1,5 +1,5 @@
 html {
-  font-family: "Arial", serif;
+  font-family: "Solway", serif;
 }
 
 body {
@@ -51,7 +51,7 @@ a {
 
 h2 {
   text-align: center;
-  font-size: 40px;
+  font-size: 50px;
   clear: both;
   padding-top: 2%;
   padding-bottom: 1%;
@@ -70,7 +70,7 @@ h2 {
 }
 
 #school {
-  display: none;
+  display: block;
 }
 
 #interests {
@@ -83,7 +83,7 @@ h2 {
 
 .subsection {
   margin: 0 auto;
-  width: 800px;
+  width: 400px;
 }
 
 .subsection h4 {
@@ -100,7 +100,7 @@ h2 {
 
 #Footer {
   position: absolute;
-  bottom: 2px;
+  bottom: 5px;
   margin-left: 5%;
   margin-right: 5%;
   width: 90%;
