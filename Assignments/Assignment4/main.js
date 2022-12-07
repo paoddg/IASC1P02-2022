@@ -1,3 +1,16 @@
-//Found on https://www.arclab.com/en/kb/htmlcss/display-date-time-javascript-php-ssi.html.
-var dt = new Date();
-document.getElementById("Clock").innerHTML = (("0"+dt.getDate()).slice(-2)) +"."+ (("0"+(dt.getMonth()+1)).slice(-2)) +"."+ (dt.getFullYear()) +" "+ (("0"+dt.getHours()).slice(-2)) +":"+ (("0"+dt.getMinutes()).slice(-2));
+//Found on https://www.programiz.com/javascript/examples/display-current-date
+// program to display the date
+// get local machine date time
+const date = new Date();
+
+// get the date as a string
+const n = date.toDateString();
+
+// get the time as a string
+const time = date.toLocaleTimeString();
+
+// display date
+console.log('Date: ' + n);
+
+// display time
+console.log('Time: ' + time);
