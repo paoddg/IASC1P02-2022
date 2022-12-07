@@ -1,7 +1,8 @@
 //Found on https://www.programiz.com/javascript/examples/display-current-date
-const element = document.getElementById('Clock');
 
-     setInterval(function () {
-       const currentDate = new Date();
-       element.innerText = currentDate.getHours() + ":" + currentDate.getMinutes() + ":" + currentDate.getSeconds();
-     }, 1000);
+var today = new Date();
+var date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+var dateTime = date+' '+time;
+
+console.log(dateTime)
