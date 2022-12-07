@@ -1,7 +1,7 @@
 //Found on https://www.programiz.com/javascript/examples/display-current-date
-function display_Clock() {
-var x = new Date()
-var x1=x.toUTCString();// changing the display to UTC string
-document.getElementById('Clock').innerHTML = x1;
-tt=display_c();
- }
+const element = document.getElementById('Clock');
+
+     setInterval(function () {
+       const currentDate = new Date();
+       element.innerText = currentDate.getHours() + ":" + currentDate.getMinutes() + ":" + currentDate.getSeconds();
+     }, 1000);
