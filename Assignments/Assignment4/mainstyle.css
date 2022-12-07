@@ -74,6 +74,7 @@ a:hover {
 }
 
 #sources{
+	float: left;
   font-style: italic;
   color: grey;
 }
