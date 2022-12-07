@@ -78,10 +78,11 @@ a:hover {
   color: grey;
 }
 
-#Footer {
-  text-align:center;
-  	height:50px;
-  	clear:both;
+#Footer{
+	text-align:center;
+	height:50px;
+	clear:both;
+	background-color:#C3846B;
 }
 
 #Clock {
