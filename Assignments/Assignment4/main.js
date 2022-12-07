@@ -28,7 +28,7 @@ interestsButton.onclick = switchToInterests;
 
 function switchToGoals() {
   switchOffEverything();
-  goals.style.display = "block";
+  goals.style.display = "inline-block";
 }
 
 goalsButton.onclick = switchToGoals;
