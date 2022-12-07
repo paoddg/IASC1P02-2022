@@ -77,15 +77,17 @@ a:hover {
   font-style: italic;
   color: grey;
 }
-#bottom{
-	text-align:center;
-	height:50px;
-	clear:both;
-	background-color:#C3846B;
+#Footer {
+  position: absolute;
+  bottom: 5px;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  background-color: #05386b;
 }
 
-#datetime{
-	position: absolute;
-	bottom: 15px;
-	right: 20px;
+#Clock {
+  float: right;
+  margin-right: 20px;
+  color: #edf5e1;
 }
