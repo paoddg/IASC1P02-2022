@@ -91,19 +91,15 @@ a:hover {
 	font-size: 18px;
 }
 
-#bottom{
+#Footer{
 	text-align:center;
 	height:50px;
 	clear:both;
 	background-color:#C3846B;
 }
 
-#datetime{
+#Clock{
 	position: absolute;
 	bottom: 15px;
 	right: 20px;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
