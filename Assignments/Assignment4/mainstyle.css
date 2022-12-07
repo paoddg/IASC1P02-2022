@@ -59,13 +59,13 @@ h2 {
 }
 
 #titles {
-  width: 390px;
+  width: 490px;
   margin: 0 auto;
 }
 
 #titles h3 {
   display: inline-block;
-	margin 0
+  margin: 40px 30px;
   cursor: pointer;
 }
 
