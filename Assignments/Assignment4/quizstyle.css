@@ -1,0 +1,124 @@
+body{
+	color:black;
+	font-family: "Arial";
+	background-color:white;
+}
+
+#wrapper{
+	width:1340px;
+	margin:0 auto;
+	background-color:white;
+}
+
+#header{
+	height:50px;
+	text-align:center;
+	background-color:#AAAF99;
+	padding-top:2px;
+	padding-bottom: 25px;
+	text-align:center;
+}
+
+#logo{
+	position: absolute;
+	height: 74px;
+	width: 74px;
+	left: 15px;
+	top: 10px;
+}
+
+#leftbody{
+	float:left;
+	width:190px;
+	height: 640px;
+	background-color:#D2D6C7;
+	padding:5px;
+}
+
+/* Found this hover link code.*/
+a:link {
+  color: black;
+  background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: #F7E6D3;
+	text-decoration: none;
+}
+/*Found on https://www.thesitewizard.com/css/links-mouseover.shtml.*/
+
+#HomePage{
+  position: fixed;
+  left: 65px;
+  top: 100px;
+}
+
+#AboutPage{
+  position: fixed;
+  left: 65px;
+  top: 150px;
+}
+
+#FunFacts{
+  position: fixed;
+  left: 65px;
+  top: 200px;
+}
+
+#rightbody{
+	float:right;
+	width:1130px;
+	height:640px;
+	background-color:#F7E6D3;
+	padding:5px;
+}
+
+#otter{
+	position: absolute;
+	top: 165px;
+	left: 700px;
+	height: 300px;
+	width: 400px;
+	border:1px solid brown;
+}
+
+#bottom{
+	text-align:center;
+	height:50px;
+	clear:both;
+	background-color:#C3846B;
+}
+
+#datetime{
+	position: absolute;
+	bottom: 15px;
+	right: 20px;
+}
+/*Quiz CSS found on https://www.sitepoint.com/simple-javascript-quiz/.*/
+
+.question{
+    font-weight: 600;
+}
+.answers {
+  margin-bottom: 20px;
+}
+.answers label{
+  display: block;
+}
+
+#submit{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: #AAAF99;
+    color: #fff;
+    border: 0px;
+    border-radius: 3px;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+#submit:hover{
+    background-color: #C3846B;
+}
