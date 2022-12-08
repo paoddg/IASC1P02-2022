@@ -1,0 +1,122 @@
+#wrapper {
+	width: 100%;
+  background-color: white;
+  margin: 0 auto;
+}
+
+#header{
+  height: 200px;
+  width: 100%;
+  background-color: #E6E6FA;
+  margin: 0;
+  position: absolute;
+}
+
+/*https://www.w3schools.com/css/css_link.asp (source for <a href> styling)*/
+a:link {
+  text-decoration: none;
+	color: white;
+}
+
+a:visited {
+  text-decoration: none;
+	color: white;
+}
+
+a:hover {
+  text-decoration: none;
+	color: white;
+}
+
+a:active {
+  text-decoration: none;
+	color: white;
+}
+
+.logo{
+  margin: 10px 20px 0px 70px;
+  width:160px
+}
+
+#tabs{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width:700px;
+	height: 40px;
+}
+
+.tab1{
+	float: left;
+	text-align: center;
+	width:85px;
+	height: 35px;
+	background-color:#4B548B;
+	padding-top: 15px;
+	margin:0px 0px 0px 70px;
+  text-align: center;
+  font-family: Courier, sans-serif;
+  font-weight:500;
+  font-size:17px;
+  color: white;
+}
+
+.content{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	height: 400px;
+	width: 1000px;
+	padding-top: 250px;
+}
+
+.Contact{
+	float:left;
+	width:500px;
+  height:500px
+	color: #4B548B;
+  font-family: 'Courier New', sans-serif;
+  font-weight:500;
+	font-size:20px;
+	padding: 20px 20px 20px 20px;
+  color: #4B548B;
+}
+
+.Form{
+	float: left;
+	width:300px;
+	padding:20px 0px 20px 20px;
+  font-family: 'Courier New', sans-serif;
+  border-style: solid;
+  border-color: #4B548B
+  margin: 20px 20px 20px 20px;
+}
+
+#footer{
+  height: 300px;
+  width: 100%;
+	background-color: #E6E6FA;
+  margin: 0 auto;
+  clear: both;
+  position: absolute;
+	align-items: center;
+	position: relative;
+}
+
+.CenterText{
+	text-align: center;
+}
+
+.logo2{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	padding-top: 10px;
+	width:190px;
+}
+
+.Social{
+  float: right;
+  width:30px;
+  margin: 2px 30px 10px 0px;
+}
