@@ -1,38 +1,38 @@
-var school = document.getElementById("school");
-var interests = document.getElementById("interests");
-var goals = document.getElementById("goals");
+var statement = document.getElementById("statement");
+var destinations = document.getElementById("destinations");
+var values = document.getElementById("values");
 
-var schoolButton = document.getElementById("schoolButton");
-var interestsButton = document.getElementById("interestsButton");
-var goalsButton = document.getElementById("goalsButton");
+var statementButton = document.getElementById("statementButton");
+var destinationsButton = document.getElementById("destinationsButton");
+var valuesButton = document.getElementById("valuesButton");
 
 function switchOffEverything() {
-  school.style.display = "none";
-  interests.style.display = "none";
-  goals.style.display = "none";
+  statement.style.display = "none";
+  destinations.style.display = "none";
+  values.style.display = "none";
 }
 
-function switchToSchool() {
+function switchTostatement() {
   switchOffEverything();
-  school.style.display = "block";
+  statement.style.display = "block";
 }
 
-schoolButton.onclick = switchToSchool;
+statementButton.onclick = switchTostatement;
 
-function switchToInterests() {
+function switchTodestinations() {
   switchOffEverything();
-  interests.style.display = "block";
+  destinations.style.display = "block";
 }
 
-interestsButton.onclick = switchToInterests;
+destinationsButton.onclick = switchTodestinations;
 
-function switchToGoals() {
+function switchTovalues() {
   switchOffEverything();
-  goals.style.display = "block";
+  values.style.display = "block";
 }
 
-goalsButton.onclick = switchToGoals;
+valuesButton.onclick = switchTovalues;
 
-//Found on https://www.howtocodeschool.com/2020/05/display-current-date-and-time-using-html-javascript.html
+//Found on https://www.howtocodestatement.com/2020/05/display-current-date-and-time-using-html-javascript.html
 var dt = new Date();
 document.getElementById('Clock').innerHTML=dt;
