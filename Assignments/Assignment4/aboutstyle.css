@@ -62,7 +62,7 @@ a:active {
 
 .picture{
   width:100%;
-	display:block;
+	display:inline-block;
 	margin-left: auto;
   margin-right: auto;
   padding:140px 0px 10px 0px;
