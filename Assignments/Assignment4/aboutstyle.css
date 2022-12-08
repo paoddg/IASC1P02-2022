@@ -66,7 +66,7 @@ a:active {
 	display:block;
 	margin-left: auto;
   margin-right: auto;
-  padding:10px 0px 10px 0px;
+  padding:140px 0px 10px 0px;
 }
 
 .content{
@@ -78,8 +78,8 @@ a:active {
 }
 
 .AboutUs{
-	float:left;
-	width:600px;
+	float:auto;
+	width:auto;
 	color: #4B548B;
   font-family: 'Courier', sans-serif;;
   font-weight:500;
@@ -89,28 +89,12 @@ a:active {
 
 a.two:link {
   text-decoration: underline;
-	color: #624A2E;
+	color: #4B548B;
 }
 
 a.two:visited {
   text-decoration: none;
-	color: #624A2E;
-}
-
-a.two:hover {
-  text-decoration: none;
-	color: #624A2E;
-}
-
-a.two:active {
-  text-decoration: none;
-	color: #624A2E;
-}
-
-.travel{
-  float: left;
-width:400px;
-padding:80px 0px 0px 30px;
+	color: #4B548B;
 }
 
 #footer{
