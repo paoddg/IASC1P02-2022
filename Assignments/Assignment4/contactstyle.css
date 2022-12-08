@@ -75,7 +75,7 @@ a:active {
 	width:500px;
   height:500px
 	color: #4B548B;
-  font-family: 'Courier New', sans-serif;
+  font-family: 'courier new', sans-serif;
   font-weight:500;
 	font-size:20px;
 	padding: 20px 20px 20px 20px;
@@ -87,8 +87,7 @@ a:active {
 	width:300px;
 	padding:20px 0px 20px 20px;
   font-family: 'Courier New', sans-serif;
-  border-style: solid;
-  border-color: #4B548B
+  border-style: dotted;
   margin: 20px 20px 20px 20px;
 }
 
