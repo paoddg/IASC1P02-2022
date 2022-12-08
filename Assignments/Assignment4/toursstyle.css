@@ -96,7 +96,7 @@ a:active {
 }
 
 #app{
-  float: center;
+  float: inherit;
 	border: solid #4B548B;
 	width:200px;
 	height: 50px;
