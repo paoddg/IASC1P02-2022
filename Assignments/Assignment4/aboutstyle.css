@@ -9,7 +9,7 @@
   width: 100%;
   background-color: #E6E6FA;
   margin: 0;
-  position: fixed;
+  position: absolute;
 }
 
 a:link {
@@ -73,7 +73,7 @@ a:active {
 	margin-left: auto;
   margin-right: auto;
 	height: 700px;
-	width: 1400px;
+	width: 100%;
 }
 
 .AboutUs{
@@ -83,7 +83,7 @@ a:active {
   font-family: 'Courier', sans-serif;;
   font-weight:500;
 	font-size:16px;
-	padding: 40px 0px 20px 50px;
+	padding: 10px 0px 0px 00px;
 }
 
 a.two:link {
