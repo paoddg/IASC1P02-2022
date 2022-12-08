@@ -77,9 +77,9 @@ a:active {
 }
 
 .solid{
-  border-style: solid;
+  border-style: dotted;
   margin-left: auto;
-  margin-right: 250px;
+  margin-right: auto;
   margin-bottom: 0px;
 	width:100%;
 	height: 450px;
@@ -139,7 +139,7 @@ a.two:active {
   clear: both;
   position: absolute;
 	align-items: center;
-	position: relative;
+	position: absolute;
 }
 
 .logo2{
