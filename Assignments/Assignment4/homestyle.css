@@ -9,9 +9,10 @@
   width: 100%;
   background-color: #E6E6FA;
   margin: 0;
-  position: fixed;
+  position: absolute;
 }
 
+/*https://www.w3schools.com/css/css_link.asp (source for <a href> styling)*/
 a:link {
   text-decoration: none;
 	color: white;
@@ -24,12 +25,12 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-	color: black;
+	color: white;
 }
 
 a:active {
   text-decoration: none;
-	color: black;
+	color: white;
 }
 
 .logo{
@@ -65,35 +66,57 @@ a:active {
 	display:block;
 	margin-left: auto;
   margin-right: auto;
-  padding:140px 0px 10px 0px;
+  padding:180px 0px 10px 0px;
 }
 
-.content{
-	display:block;
-	margin-left: auto;
-  margin-right: auto;
-	height: 700px;
-	width: 1400px;
+.quote{
+  text-align: center;
+  font-family: Courier;
+  font-size: 25px;
 }
 
-.AboutUs{
-	float:auto;
-	width:auto;
-	color: #4B548B;
-  font-family: 'Courier', sans-serif;;
-  font-weight:500;
-	font-size:16px;
-	padding: 40px 0px 20px 50px;
+#application{
+  float: center;
+	border: solid black;
+	width:200px;
+	height: 80px;
+	background-color:#4B548B;
+	padding: 30px 10px 10px 10px;
+	margin: 0 auto;
+  text-align: center;
+  font-family: monospace;
+  font-weight: 500;
+  color: white;
+  font-size:30px;
 }
 
 a.two:link {
-  text-decoration: underline;
-	color: #4B548B;
+  text-decoration: none;
+	color: white;
 }
 
 a.two:visited {
   text-decoration: none;
-	color: #4B548B;
+	color: white;
+}
+
+a.two:hover {
+  text-decoration: none;
+	color: black;
+}
+
+a.two:active {
+  text-decoration: none;
+	color: black;
+}
+
+.HighlightVideo{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	width:1200px;
+	height: 500px;
+	padding:20px 0px 30px 0px;
 }
 
 #footer{
