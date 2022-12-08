@@ -1,0 +1,167 @@
+#wrapper {
+	width: 100%;
+  background-color: white;
+  margin: 0 auto;
+}
+
+#header{
+  height: 200px;
+  width: 100%;
+  background-color: #E6E6FA;
+  margin: 0;
+  position: absolute;
+}
+
+/*https://www.w3schools.com/css/css_link.asp (source for <a href> styling)*/
+a:link {
+  text-decoration: none;
+	color: white;
+}
+
+a:visited {
+  text-decoration: none;
+	color: white;
+}
+
+a:hover {
+  text-decoration: none;
+	color: white;
+}
+
+a:active {
+  text-decoration: none;
+	color: white;
+}
+
+.logo{
+  margin: 10px 20px 0px 70px;
+  width:160px
+}
+
+#tabs{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	width:700px;
+	height: 40px;
+}
+
+.tab1{
+	float: left;
+	text-align: center;
+	width:85px;
+	height: 35px;
+	background-color:#4B548B;
+	padding-top: 15px;
+	margin:0px 0px 0px 70px;
+  text-align: center;
+  font-family: Courier, sans-serif;
+  font-weight:500;
+  font-size:17px;
+  color: white;
+}
+
+.picture{
+  width:auto;
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+  padding:180px 0px 10px 0px;
+}
+
+.quote{
+  text-align: center;
+  font-family: Courier;
+  font-size: 25px;
+}
+
+.solid{
+  border-style: solid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+	width:1200px;
+	height: 450px;
+	padding:20px 2px 20px 20px;
+  font-family: 'Trebuchet MS', sans-serif;;
+  font-size: 15px;
+}
+
+
+.train{
+  font-size: 30px;
+  text-align: center;
+}
+
+#application{
+  float: center;
+	border: solid black;
+	width:200px;
+	height: 80px;
+	background-color:#4B548B;
+	padding: 30px 10px 10px 10px;
+	margin: 0 auto;
+  text-align: center;
+  font-family: monospace;
+  font-weight: 500;
+  color: white;
+  font-size:30px;
+}
+
+a.two:link {
+  text-decoration: none;
+	color: white;
+}
+
+a.two:visited {
+  text-decoration: none;
+	color: white;
+}
+
+a.two:hover {
+  text-decoration: none;
+	color: black;
+}
+
+a.two:active {
+  text-decoration: none;
+	color: black;
+}
+
+.HighlightVideo{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	width:1200px;
+	height: 500px;
+	padding:20px 0px 30px 0px;
+}
+
+#footer{
+  height: 300px;
+  width: 100%;
+	background-color: #E6E6FA;
+  margin: 0 auto;
+  clear: both;
+  position: absolute;
+	align-items: center;
+	position: relative;
+}
+
+.CenterText{
+	text-align: center;
+}
+
+.logo2{
+	display:block;
+	margin-left: auto;
+  margin-right: auto;
+	padding-top: 10px;
+	width:190px;
+}
+
+.Social{
+  float: right;
+  width:30px;
+  margin: 2px 30px 10px 0px;
+}
