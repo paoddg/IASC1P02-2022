@@ -72,13 +72,13 @@ a:active {
 	display:block;
 	margin-left: auto;
   margin-right: auto;
-	height: 700px;
+	height: auto;
 	width: 100%;
 }
 
 .AboutUs{
-	float: none;
-	width:auto;
+	float: inherit;
+	width:100%;
 	color: #4B548B;
   font-family: 'Courier New', sans-serif;
   font-weight:500;
@@ -100,11 +100,11 @@ a.two:visited {
   height: 300px;
   width: 100%;
 	background-color: #E6E6FA;
-  margin: 20px auto;
+  margin: auto;
   clear: both;
   position: absolute;
 	align-items: center;
-	position: relative;
+	position: absolute;
 }
 
 .CenterText{

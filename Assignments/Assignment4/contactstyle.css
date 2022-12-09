@@ -8,7 +8,6 @@
   height: 200px;
   width: 100%;
   background-color: #E6E6FA;
-  margin: 0;
   position: absolute;
 }
 
@@ -62,7 +61,6 @@ a:active {
 }
 
 .content{
-	display:block;
 	margin-left: auto;
   margin-right: auto;
 	height: 400px;
@@ -95,11 +93,11 @@ a:active {
   height: 300px;
   width: 100%;
 	background-color: #E6E6FA;
-  margin: 0 auto;
+  margin: 0;
   clear: both;
-  position: absolute;
+  position: relative;
 	align-items: center;
-	position: relative;
+	position: inherit;
 }
 
 .logo2{
