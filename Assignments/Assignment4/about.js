@@ -1,5 +1,5 @@
 var i = 0;
-var txt = 'To travel is to live'; /* The text */
+var txt = 'To Travel is to Live'; /* The text */
 var speed = 50; /* The speed/duration of the effect in milliseconds */
 
 function typeWriter() {
